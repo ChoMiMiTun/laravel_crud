@@ -1,4 +1,4 @@
-# Larve CRUD
+# Larvel CRUD
 
 This is a blog(Crud) using laravel framework. This will include following
 
@@ -18,5 +18,5 @@ Resource
 ### Preview
 
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="images/laravel_crud_preview.jpg" width="350" title="Laravel crud">
 </p>
