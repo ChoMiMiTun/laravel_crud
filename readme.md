@@ -18,5 +18,5 @@ Resource
 ### Preview
 
 <p align="center">
-  <img src="images/laravel_crud_preview.jpg" title="Laravel crud">
+  <img src="https://github.com/ChoMiMiTun/laravel_crud/tree/master/public/images/laravel_crud_preview.jpg" width="800px" title="Laravel crud">
 </p>
