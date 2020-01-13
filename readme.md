@@ -1,4 +1,4 @@
-# Larvel CRUD
+## Larvel CRUD
 
 This is a blog(Crud) using laravel framework. This will include following
 
