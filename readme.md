@@ -17,6 +17,7 @@ Resource
 
 ### Preview
 
+
 ![laravel_crud_preview](https://user-images.githubusercontent.com/54518985/72232162-b8131100-35ed-11ea-8e63-c83716413801.jpg)
 
 
